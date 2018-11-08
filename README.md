@@ -1,6 +1,6 @@
 # Lebenslauf  
 
-![Passfoto](C:\Users\Thomas\GithubProjekt\220px-Chuck_Norris_May_2015.jpg "Passfoto")
+![Passfoto](https://github.com/hassthomas/GithubProjekt/blob/thomas/220px-Chuck_Norris_May_2015.jpg "Passfoto")
 
 **Name:** Thomas
 
